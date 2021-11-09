@@ -2,7 +2,7 @@
 title: Toasty Tiger Club
 sections:
   - type: hero_section
-    title: Inspire. Create. Build.
+    title: WELCOME
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
