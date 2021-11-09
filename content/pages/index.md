@@ -1,5 +1,5 @@
 ---
-title: Toasty Tigers
+title: Toasty Tiger Club
 sections:
   - type: hero_section
     title: Inspire. Create. Build.
