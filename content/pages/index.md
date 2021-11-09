@@ -6,7 +6,7 @@ sections:
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
-      - label: Get Your Ticket Today!
+      - label: MINT YOURS NOW
         url: /about
         style: primary
     align: center
