@@ -120,17 +120,12 @@ sections:
         media_width: thirty-three
         image: /images/u1.jpeg
       - title: Utility C
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
+          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
+          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
+          semper.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
