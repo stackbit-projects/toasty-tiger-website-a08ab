@@ -50,7 +50,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: /images/ClaimApe.2e198c2d.gif
+    image: /images/u3.jpg
   - type: features_section
     title: ROADMAP
     features: []
