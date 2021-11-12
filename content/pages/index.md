@@ -119,6 +119,7 @@ sections:
         media_position: right
         media_width: thirty-three
         image: /images/u1.jpeg
+        align: center
       - title: Utility C
         content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
