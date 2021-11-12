@@ -118,6 +118,7 @@ sections:
           it on the web within a month.
         media_position: right
         media_width: sixty
+        image: /images/u1.jpeg
       - title: Utility B
         content: >-
           JAMstack is revolutionising the way we think about workflow by
