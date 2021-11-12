@@ -28,7 +28,7 @@ sections:
         actions: []
         media_position: bottom
         media_width: fifty
-        align: left
+        align: right
         image: /images/ClaimApe.2e198c2d.gif
       - title: lorem-ipsum
         subtitle: lorem-ipsum
