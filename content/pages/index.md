@@ -26,7 +26,6 @@ sections:
         content: |
           The art is generated from 200+ traits after two months hardwork
         actions: []
-        image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
         align: center
