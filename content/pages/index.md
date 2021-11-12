@@ -104,7 +104,7 @@ sections:
         media_width: fifty
         align: center
         image: /images/100.png
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     padding_top: none
     background_color: none
