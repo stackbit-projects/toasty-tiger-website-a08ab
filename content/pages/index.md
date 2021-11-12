@@ -53,7 +53,6 @@ sections:
     image: /images/ClaimApe.2e198c2d.gif
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
