@@ -142,7 +142,7 @@ sections:
         media_width: thirty-three
         image: /images/u2.jpg
         align: center
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     padding_top: large
     padding_bottom: large
