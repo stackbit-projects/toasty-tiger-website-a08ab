@@ -26,7 +26,7 @@ sections:
         content: |
           The art is generated from 200+ traits after two months hardwork
         actions: []
-        media_position: top
+        media_position: bottom
         media_width: fifty
         align: center
         image: /images/ClaimApe.2e198c2d.gif
