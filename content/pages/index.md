@@ -108,6 +108,7 @@ sections:
     align: center
     padding_top: none
     background_color: none
+    has_border: true
   - type: features_section
     title: THE $SABRE TOKEN
     features:
