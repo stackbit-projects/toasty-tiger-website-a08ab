@@ -92,8 +92,12 @@ sections:
         media_position: right
         media_width: sixty
       - title: 100% milestone blah blah
-        content: |
-          Main content here 
+        content: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
+          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
+          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
+          semper.
+
         actions: []
         image_alt: lorem-ipsum
         media_position: top
