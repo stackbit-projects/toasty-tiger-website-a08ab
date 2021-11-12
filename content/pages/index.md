@@ -3,7 +3,7 @@ title: Toasty Tiger Club
 sections:
   - type: hero_section
     title: WELCOME TO THE TOASTY TIGER CLUB
-    subtitle: Conference for Creative People
+    subtitle: PUBLIC SALE STARTED
     content: '**April 14 - 16, 2021**'
     actions:
       - label: MINT YOURS NOW
