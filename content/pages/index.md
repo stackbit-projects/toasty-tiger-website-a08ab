@@ -61,7 +61,7 @@ sections:
     padding_top: medium
     padding_bottom: small
     background_color: none
-    has_border: true
+    has_border: false
   - type: features_section
     features:
       - title: Hands-On Workshops
