@@ -132,6 +132,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    has_border: true
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
