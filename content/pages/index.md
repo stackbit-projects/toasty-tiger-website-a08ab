@@ -92,17 +92,8 @@ sections:
         media_position: right
         media_width: sixty
       - title: 100% milestone blah blah
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Main content here 
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
