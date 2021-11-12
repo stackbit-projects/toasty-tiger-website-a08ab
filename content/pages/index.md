@@ -102,7 +102,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
-        align: left
+        align: center
         image: /images/100.png
     feature_padding_vert: large
     align: center
