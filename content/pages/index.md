@@ -128,7 +128,7 @@ sections:
 
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: thirty-three
         align: center
         image: /images/u3.jpg
