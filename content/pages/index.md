@@ -77,7 +77,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
-        image: images/feature-2.jpg
+        image: /images/50-eeead7a9.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
