@@ -32,7 +32,7 @@ sections:
         align: center
         image: /images/ClaimApe.2e198c2d.gif
     feature_padding_vert: small
-    align: right
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
