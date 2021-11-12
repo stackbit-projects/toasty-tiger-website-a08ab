@@ -92,7 +92,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: 100% milestone blah blah
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
