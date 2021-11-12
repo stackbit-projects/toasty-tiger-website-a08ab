@@ -120,7 +120,6 @@ sections:
         media_width: thirty-three
         image: /images/u1.jpeg
       - title: Utility C
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
