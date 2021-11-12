@@ -81,7 +81,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: /images/u2.jpg
   - type: features_section
     title: ROADMAP
     features: []
