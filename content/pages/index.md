@@ -126,7 +126,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
-    title: Speakers & Instructors
+    title: TEAM
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
