@@ -50,6 +50,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: /images/ClaimApe.2e198c2d.gif
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
