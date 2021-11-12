@@ -119,7 +119,7 @@ sections:
         media_position: right
         media_width: thirty-three
         image: /images/u1.jpeg
-      - title: lorem-ipsum
+      - title: Utility C
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
