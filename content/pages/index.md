@@ -109,7 +109,7 @@ sections:
     padding_top: none
     background_color: none
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: THE $SABRE TOKEN
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
         content: >-
