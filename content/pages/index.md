@@ -133,7 +133,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: thirty-three
-        align: left
+        align: center
         image: /images/u3.jpg
       - title: Utility B
         content: >-
