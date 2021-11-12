@@ -9,7 +9,7 @@ sections:
     actions:
       - label: MINT
         url: /about
-        style: primary
+        style: link
     align: center
     padding_top: large
     padding_bottom: large
