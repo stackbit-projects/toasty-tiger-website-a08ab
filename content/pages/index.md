@@ -17,7 +17,7 @@ sections:
     background_image: >-
       /images/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach.webp
     background_image_opacity: 15
-    background_image_size: contain
+    background_image_size: auto
   - type: grid_section
     grid_items:
       - title: 2 Days
