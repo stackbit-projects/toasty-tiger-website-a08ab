@@ -29,7 +29,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         image: /images/ClaimApe.2e198c2d.gif
     feature_padding_vert: medium
     align: center
