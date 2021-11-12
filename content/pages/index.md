@@ -50,7 +50,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
-        align: center
+        align: left
         image: /images/ClaimApe.2e198c2d-9b2cf2c4.gif
     feature_padding_vert: small
     align: center
