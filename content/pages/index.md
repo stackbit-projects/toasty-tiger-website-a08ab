@@ -225,6 +225,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
+    section_id: team
   - type: grid_section
     title: Our Sponsors
     subtitle: We Are Supported by Awesome Companies
