@@ -134,6 +134,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/u3.jpg
       - title: Utility B
         content: >-
           JAMstack is revolutionising the way we think about workflow by
