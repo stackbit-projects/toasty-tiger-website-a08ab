@@ -111,7 +111,7 @@ sections:
   - type: features_section
     title: THE $SABRE TOKEN
     features:
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
+      - title: Utility A
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
