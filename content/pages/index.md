@@ -90,7 +90,7 @@ sections:
 
         actions: []
         image_alt: lorem-ipsum
-        media_position: left
+        media_position: top
         media_width: fifty
         align: center
         image: /images/100.png
