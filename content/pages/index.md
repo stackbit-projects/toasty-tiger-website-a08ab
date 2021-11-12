@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: WELCOME TO THE TOASTY TIGER CLUB
     subtitle: PUBLIC SALE STARTED
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **GET YOURS NOW**
     actions:
       - label: MINT YOURS NOW
         url: /about
