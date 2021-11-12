@@ -137,7 +137,7 @@ sections:
           JAMstack is revolutionising the way we think about workflow by
           providing a simpler developer experience, better performance, lower
           cost and greater scalability. From JAMstack WTF
-        media_position: left
+        media_position: right
         media_width: thirty-three
         image: /images/u2.jpg
     feature_padding_vert: large
