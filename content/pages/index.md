@@ -123,7 +123,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: sixty
-      - title: 'Um, its about your JavaScript...'
+      - title: Utility B
         content: >-
           JAMstack is revolutionising the way we think about workflow by
           providing a simpler developer experience, better performance, lower
