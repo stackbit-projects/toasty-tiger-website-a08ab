@@ -117,7 +117,7 @@ sections:
           Crazy’ campaign and approached digital agency Matter Supply to launch
           it on the web within a month.
         media_position: right
-        media_width: sixty
+        media_width: thirty-three
         image: /images/u1.jpeg
       - title: Utility B
         content: >-
