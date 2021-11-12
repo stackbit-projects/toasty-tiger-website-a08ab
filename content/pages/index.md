@@ -125,7 +125,7 @@ sections:
           providing a simpler developer experience, better performance, lower
           cost and greater scalability. From JAMstack WTF
         media_position: left
-        media_width: sixty
+        media_width: thirty-three
         image: /images/u2.jpg
     feature_padding_vert: large
     align: center
