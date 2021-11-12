@@ -7,7 +7,7 @@ sections:
     content: |
       **GET YOURS NOW**
     actions:
-      - label: MINT YOURS NOW
+      - label: MINT
         url: /about
         style: primary
     align: center
