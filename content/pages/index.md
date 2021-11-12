@@ -51,7 +51,6 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: /images/ClaimApe.2e198c2d-9b2cf2c4.gif
     feature_padding_vert: small
     align: center
     padding_top: medium
