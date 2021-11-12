@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "ROADMAP",
-                "url": "/#team",
+                "url": "/#roadmap",
                 "style": "link"
             },
             {
