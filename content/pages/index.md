@@ -14,7 +14,8 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: images/hero-background.jpg
+    background_image: >-
+      /images/troop-of-bored-ape-nfts-rises-above-the-competition-nft-project-donates-200k-in-eth-to-orangutan-outreach.webp
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
