@@ -58,7 +58,7 @@ sections:
     features: []
     feature_padding_vert: small
     align: center
-    padding_top: medium
+    padding_top: small
     padding_bottom: none
     background_color: none
     has_border: false
