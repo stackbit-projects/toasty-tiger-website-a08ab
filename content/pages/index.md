@@ -131,7 +131,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
   - type: grid_section
     title: What People are Saying
     subtitle: Previous event attendees
