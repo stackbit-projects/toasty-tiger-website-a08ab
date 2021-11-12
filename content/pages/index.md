@@ -20,7 +20,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: THE SABRETIGER NFT
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
