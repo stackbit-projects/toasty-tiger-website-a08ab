@@ -23,7 +23,6 @@ sections:
     title: THE SABRETIGER NFT
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: |
           The art is generated from 200+ traits after two months hardwork
         actions: []
