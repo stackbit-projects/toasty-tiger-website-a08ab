@@ -145,7 +145,7 @@ sections:
     feature_padding_vert: small
     align: center
     padding_top: large
-    padding_bottom: large
+    padding_bottom: small
     background_color: none
     has_border: true
   - type: grid_section
