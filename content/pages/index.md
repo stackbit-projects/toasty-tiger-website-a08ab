@@ -2,7 +2,7 @@
 title: Toasty Tiger Club
 sections:
   - type: hero_section
-    title: WELCOME TO THE TOASTY TIGER CLUB
+    title: WELCOME TO THE SABREDAO
     subtitle: PUBLIC SALE STARTED
     content: |
       **GET YOURS NOW**
