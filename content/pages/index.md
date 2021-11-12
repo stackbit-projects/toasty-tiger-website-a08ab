@@ -56,7 +56,7 @@ sections:
   - type: features_section
     title: ROADMAP
     features: []
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     padding_top: medium
     padding_bottom: none
